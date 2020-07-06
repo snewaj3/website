@@ -1,0 +1,61 @@
+#logo{
+    width: 90px;
+}
+.pink{
+    background-color: rgba(252, 120, 186, 0.281);
+    border-radius: 10px;
+}
+
+
+.carousel-inner{
+    padding-left: 8%;
+}
+.price{
+    color: orangered;
+}
+.buy-now{
+    border: 2px solid white;
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 10px;
+    padding: 4px 12px;
+}
+.container{
+    padding-bottom: 4%;
+   
+}
+.ctg img{
+    width: 100px;
+}
+.cat1{
+    background-color: yellow;
+}
+.cat2{
+    background-color:tomato;
+}
+.cat3{
+    background-color: cyan;
+}
+.cat1, .cat2, .cat3{
+    padding: 3% 6%;
+    border-radius: 10px;
+    color: white;
+    
+}
+.card{
+    box-shadow: 5px 5px 10px skyblue;
+    border-radius: 15px;
+    
+}
+.card img{
+    width: 250px;
+}
+#Contact-us{
+
+    height: 350px;
+}
+#brnd{
+    text-align: center;
+    font-family: century gothic;
+   
+}
